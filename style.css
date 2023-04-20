@@ -1,0 +1,64 @@
+
+ .margin-0{
+    margin: 0px;
+ }
+ .col-white{
+    color: white;
+ }
+ .bg-url-forest{
+    background-image: url(https://gamerwall.pro/uploads/posts/2022-09/1662102402_2-gamerwall-pro-p-oboi-les-vkontakte-2.jpg);
+  
+
+ }
+ .widtch-100{
+   width: 100vw;
+ }
+ .min-height-100{
+   min-height: 100vh;
+ }
+ .bgs-cover{
+    background-size: cover;
+ }
+ .pos-rel{
+    position: relative;
+
+ }
+ .top-100{
+   top: 100px;
+ }
+ 
+ .top-200{
+   top: 200px;
+ }
+ .t-al-center{
+    text-align: center;
+ }
+ 
+ .f-size-15px {
+    font-size: 15px;
+ }
+.f-size-50px{
+    font-size: 50px;
+}
+.f-size-40px {
+   font-size: 40px;
+}
+
+.font-fam-sans{
+   font-family: sans-serif;
+}
+.bgc-green{
+   background-color: rgb(111, 156, 111);
+}
+ .margin-180-25-120{
+
+    margin: 180px 25px 120px ;
+
+}  
+  .padding-50{
+   padding: 10px;
+} 
+.widtch-calc-25-50{
+   width: calc(25% - 50px);
+} 
+
